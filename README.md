@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbodeSodiq
 - 👀 I’m interested in leveraging data to drive insights and advancements in the healthcare industry
-- 🌱 I just finished Google data analytics professional certificate
 - 💞️ I’m looking to collaborate on projects that aim to improve healthcare delivery, optimize resource allocation, or enhance patient care through data-driven approaches.
 - 📫 Feel free to connect with me via Email(abodesodiq@gmail.com) or LinkedIn (https://www.linkedin.com/in/abode-sodiq-19b80418a/)
 - 😄 Pronouns: He/Him
